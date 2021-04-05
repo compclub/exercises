@@ -1,6 +1,4 @@
-(ns hssofdesflex.ex2b-conversion1)
-
-;;;; Solution to exercise 2.N
+(ns ex2n-own-conversion)
 
 ;;;; (ns unit)
 
